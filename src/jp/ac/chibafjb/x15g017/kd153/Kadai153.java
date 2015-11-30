@@ -11,8 +11,8 @@ public class Kadai153 {
 		yomu.close();
 		double b = 2 * 3.14 * a;
 		double c = a * a * 3.14;
-		System.out.println("円周　＝"+ Math.round((b*100)/100));
-		System.out.println("面積　＝"+ Math.round((c * 100)/100));
+		System.out.println("円周　＝"+ Math.round((b * 10)/10));
+		System.out.println("面積　＝"+ Math.round((c * 10)/10));
 		
 	}
 
